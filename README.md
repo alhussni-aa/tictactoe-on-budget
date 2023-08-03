@@ -1,5 +1,5 @@
 # Tic-Tac-Toe, on budget
-## Hi! This is the famous game Tic-Tac-Toe, made with C++.
+## Hi! This is the famous game Tic-Tac-Toe, made with C++. This was made just to experiment with C++.
 There are three versions here, they only differ in the way they're displayed.
 
 ### game1.cpp
